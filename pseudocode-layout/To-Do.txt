@@ -3,15 +3,26 @@
     -Research animations based on scrolling and other events
 
 ---Build out base template/layout for web-app---
-    -Style navbar
-    -Add navbar-brand logo
-    -Find and add theme (possibly?)
-    -Add sticky-footer w/icons for socials/email/etc
-        -Twitter
-        -Instagram
-        -LinkedIn
-        -Github
-        -Business Email
+
+    -Create and style navbar
+        -Implementing the use of fontawesome
+            -Add navbar-brand logo
+            -Add icons for socials/email/etc
+                -Twitter
+                -Instagram
+                -LinkedIn
+                -Github
+                -Business Email
+
+    -Create and style sticky-footer
+        -Implementing the use of fontawesome
+            -Add icons for socials/email/etc
+                -Twitter
+                -Instagram
+                -LinkedIn
+                -Github
+                -Business Email
+        
 
 
 Components:
