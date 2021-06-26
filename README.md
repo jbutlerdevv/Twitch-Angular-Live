@@ -26,3 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 "# Twitch-Angular-Live" 
+
+
+## Styling/Animations
+
+This project uses a combination of Bootstrap 5 and CSS. There are future plans to implement SASS or SCSS as well
