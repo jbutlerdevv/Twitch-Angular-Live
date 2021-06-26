@@ -1,0 +1,38 @@
+----Research other style websites using Bootstrap
+    -Find interesting styling techniques
+    -Research animations based on scrolling and other events
+
+---Build out base template/layout for web-app---
+    -Style navbar
+    -Add navbar-brand logo
+    -Find and add theme (possibly?)
+    -Add sticky-footer w/icons for socials/email/etc
+        -Twitter
+        -Instagram
+        -LinkedIn
+        -Github
+        -Business Email
+
+
+Components:
+    -
+    -
+    -
+    -
+    -
+    -
+
+Services:
+    -
+    -
+    -
+    -
+    -
+    -
+Models
+    -
+    -
+    -
+    -
+    -
+    -

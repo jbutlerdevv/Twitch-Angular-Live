@@ -1,2 +1,0 @@
--Added Bootstrap 5
-    -Added navbar to app.component.html for testing
