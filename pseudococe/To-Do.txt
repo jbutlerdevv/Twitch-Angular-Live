@@ -1,0 +1,26 @@
+---Build out base template/layout for web-app---
+
+
+
+Components:
+    -
+    -
+    -
+    -
+    -
+    -
+
+Services:
+    -
+    -
+    -
+    -
+    -
+    -
+Models
+    -
+    -
+    -
+    -
+    -
+    -
